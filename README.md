@@ -1,5 +1,7 @@
 # slvm
 
+# THIS REPO IS DEPRICATED AND MERGED WITH [sl-sh](https://github.com/sl-sh-dev/sl-sh)
+
 Simple Lisp Compiler And Virtual Machine
 
 This compiles Lisp to slvm bytecode.  It is intended to eventually
